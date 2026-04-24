@@ -46,7 +46,7 @@ The project includes a full-stack web application deployed on **Hugging Face Spa
 
 ## 🌐 Demo
 
-> **Live App:** [https://huggingface.co/spaces/Suraj1229/uav-object-detection](https://huggingface.co/spaces/Suraj1229/uav-object-detection)
+> **Live App:** [https://uavdetection-uav-object-detection.hf.space/)
 
 | Image Detection | Video Analysis | Live Camera |
 |:-:|:-:|:-:|
