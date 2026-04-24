@@ -11,7 +11,7 @@
 
 **A deep learning-based real-time object detection system for UAV/drone aerial imagery using YOLOv8**
 
-[🌐 Live Demo](https://huggingface.co/spaces/Suraj1229/uav-object-detection) · [📊 Dataset](https://github.com/VisDrone/VisDrone-Dataset) · [📄 Report Bug](https://github.com/Suraj1229/uav-object-detection/issues)
+[🌐 Live Demo](https://uavdetection-uav-object-detection.hf.space/) · [📊 Dataset](https://github.com/VisDrone/VisDrone-Dataset) · [📄 Report Bug](https://github.com/Suraj1229/uav-object-detection/issues)
 
 </div>
 
