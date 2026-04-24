@@ -1,0 +1,11 @@
+streamlit
+ultralytics
+opencv-python-headless
+Pillow
+plotly
+pandas
+numpy
+torch
+torchvision
+streamlit-webrtc
+av
